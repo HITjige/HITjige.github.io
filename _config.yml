@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Introduction of Jilong Li"
+title                    : "About Jilong Li"
 title_separator          : "-"
 name                     : &name "Jilong Li"
 description              : &description "PG in CS at HITSZ"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PG in CS at HITSZ"
   location         : "Shenzhen, Guangdong"
-  employer         : "Harbin Institute of Technology, Shenzhen"
+  employer         : "Harbin Institute of Technology"
   uri              : # URL
   email            : "200110217@stu.hit.edu.cn" 
 
